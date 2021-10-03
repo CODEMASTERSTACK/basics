@@ -1,11 +1,12 @@
 # Basics
-A minimal theme for those who like to keep it simple. Makes use of bootstrap.
+A minimal theme for those who like to keep it on simple. Makes use of bootstrap.
 
 Based on the [Elephants theme](https://themes.gohugo.io/elephants/).
 
 ## Features
 * Responsive theme
-* High contrast
+* Highly designed
+* Highly contrast
 * Focus on content and readability
 
 ## Installation
@@ -15,7 +16,7 @@ git submodule add https://github.com/arjunkrishnababu96/basics.git themes/basics
 ```
 
 ### Writing Posts
-Posts that should show up in the home page must be inside `contents/post`. Or you can change this behavior by tweaking `themes/basics/layouts/_default/list.html`.
+Posts that should show up in the home page must be inside 'Contents/Post'. Or you can change this behavior by tweaking `themes/basics/layouts/_default/list.html`.
 
 You should also add an about page at `contents/about.md`.
 
